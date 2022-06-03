@@ -16,5 +16,10 @@ public class BowlingGameTest {
     public void muqeetTestTwo() {
 
     }
+
+    @Test
+    public void muqeetTestThree() {
+
+    }
 }
 
