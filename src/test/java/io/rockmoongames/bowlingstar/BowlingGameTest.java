@@ -8,8 +8,13 @@ public class BowlingGameTest {
     public void jessicaTestOne() {
 
     }
-
+    @Test
     public void muqeetTestOne() {
 
     }
+    @Test
+    public void muqeetTestTwo() {
+
+    }
 }
+
